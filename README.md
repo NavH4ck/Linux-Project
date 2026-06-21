@@ -4,8 +4,9 @@
 
 ## 👨‍🎓 Student Details
 
-* **Name:** Jay
-* **Registration Number:** 24BCG10123
+* **Name:** Navneet Prashar
+* **Registration Number:** 24BCG10125
+  
 
 ---
 
